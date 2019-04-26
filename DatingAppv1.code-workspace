@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "DatingApp.API"
+		},
+		{
+			"path": "DatingApp-SPA"
+		}
+	],
+	"settings": {
+		"workbench.editor.enablePreview": false,
+		"workbench.editor.enablePreviewFromQuickOpen": false
+	}
+}
